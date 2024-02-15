@@ -44,7 +44,7 @@ $icons = [
 
     // OUR DOWNLOADS PAGE
     // forms
-    ['forms icon', 'fas  fa-chevron-right'],
+    ['forms icon', 'fas  fa-wpforms'],
 
 
     // HELP AND SUPPORT PAGE
