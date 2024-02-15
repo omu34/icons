@@ -1,34 +1,58 @@
 
 <?php
 $icons = [
-            ['building', 'fa fa-building-user'],
-            ['Phone Icon', 'fa fa-phone"'],            
-            ['facebook', 'fa fa-facebook">'],    
-            ['youtube', 'fa fa-youtube'],
-            ['instagram', 'fa fa-instagram'],    
-            ['linkedin', 'fa fa-linkedin'],
-            ['whatsApp', 'fa fa-whatsapp'],    
-            ['square-poll-vertical', 'fa fa-square-poll-vertical'],
-            ['image', 'fa fa-image'],    
-            ['envelop dot', 'fa fa-envelope-dot'],
-            ['wallet', 'fa fa-wallet'],    
-            ['wifi', 'fa fa-wifi'],
-            ['circle-check', 'fa fa-circle-check'],    
-            ['magnifying-glass-arrow-rotate', 'fa fa-magnifying-glass-arrows-rotate'],
-            ['city', 'fa fa-city'],    
-            ['money-bill', 'fa-light fa-money-bill'],
-            ['envelop-circle-check', 'fa fa-envelope-circle-check'],    
-            ['wallet', 'fa fa-wallet'],
-            ['user', 'fa fa-user'],    
-            ['award', 'fa fa-award'],
-            ['calendar-days', 'fa fa-calendar-days'],    
-            ['handshake-handle', 'fa fa-handshake-angle">'],
-            ['angle-right', 'fa fa-angle-right'],    
-            ['angle-down', 'fa fa-angle-down'],
-            ['upload', 'fa fa-upload'],    
-            ['star', 'fa fa-star'],
-              
-            ['Awards Icon', 'fas fa-award'],
-            ['Phone Icon', 'fas fa-phone'],    
-            
-        ];
+    // HOME PAGE
+    // Top navigation
+    ['search button', 'fas fa-magnifying-glass-arrows-rotate'],
+    ['facebook', 'fas fa-facebook">'],
+    ['youtube', 'fas fa-youtube'],
+    ['instagram', 'fas fa-instagram'],
+    ['linkedin', 'fas fa-linkedin'],
+    ['whatsApp', 'fas fa-whatsapp'],
+    ['twitter', 'fas fa-square-x-twitter'],
+    // Product and Services Icons
+    ['web portal', 'fas fa-wifi'],
+    ['mobile banking', "fas fa-mobile-button"],
+    ['other services', 'fas fa-credit-card'],
+    ['loans', 'fas fa-chart-line'],
+    ['share capital', 'fas fa-bolt'],
+    ['savings and deposit', "fas fa-door-open"],
+    // Need Help Icons
+    ['support Hotline', "fas fa-phone"],
+    ['email@email.com', 'fas fa-envelope-dot'],
+    ['support button right arrow', 'fas fa-chevron-right'],
+    ['plus icon', 'fas fa-plus'],
+    // Footer Nav Icons
+    ['0724 002 525', 'fas fa-phone'],
+    ['info@bandari.co.ke', 'fas fa-envelope-circle-check'],
+    ['monday-friday 9am-16pm image', 'fas fa-city'],
+    ['bandari Sacco Building', 'fas fa-building-user'],
+    // Who we are
+    ['circular tick', 'fas fa-circle-check'],
+
+    // OUR RESOURCES PAGE
+    // downloads
+    ['downloads', 'fas fa-file-arrow-down'],
+    ['careers', 'fas fa-user'],
+
+    // ABOUT US PAGE
+    // Our Awards
+    ['award', 'fas fa-award'],
+    // our services
+    ['show more button', 'fas  fa-chevron-down'],
+    ['get in touch button', 'fas  fa-chevron-right'],
+
+    // OUR DOWNLOADS PAGE
+    // forms
+    ['forms icon', 'fas  fa-chevron-right'],
+
+
+    // HELP AND SUPPORT PAGE
+    // membership
+    ['membership', 'fas fa-message'],
+
+    // SUBMIT TICKET PAGE
+    // Create New ticket
+    ['select and upload', 'fas fa-cloud-arrow-up'],
+
+];
